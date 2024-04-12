@@ -1,4 +1,4 @@
-what's going on in the picture?
+INV: What's going on in the picture?
 INV: What do you see happening in that picture?
 PAR: A lady and her children.
 INV: Mhm.

@@ -1,4 +1,4 @@
-can you see the picture here?
+INV: Can you see the picture here?
 PAR: Mhm.
 INV: Tell me what's going on in that picture.
 INV: What's happening there?

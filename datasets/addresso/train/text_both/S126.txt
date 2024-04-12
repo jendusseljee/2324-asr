@@ -1,4 +1,4 @@
-tell me what you see going on in this picture.
+INV: Tell me what you see going on in this picture.
 PAR: I don't see.
 PAR: Looks like somebody took some pencils or something and went up and down those them things.
 INV: Can you see what's going on in that picture?

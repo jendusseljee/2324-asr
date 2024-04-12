@@ -1,4 +1,4 @@
-I'm gonna show you a picture now.
+INV: I'm gonna show you a picture now.
 INV: I want you to tell me what you see going on in this picture.
 INV: Tell me what's happening in that picture.
 PAR: This is a clause copy c by his ... look at the picture up here.

@@ -1,4 +1,4 @@
-you see going on in the picture.
+INV: You see going on in the picture.
 INV: Tell me all the action.
 PAR: Mhm.
 INV: Okay?

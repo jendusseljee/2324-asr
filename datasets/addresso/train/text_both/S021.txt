@@ -1,4 +1,4 @@
-the boy is taking cookies.
+PAR: The boy is taking cookies.
 PAR: The girl is saying "/. quiet.
 PAR: The boy is falling off the stool.
 PAR: The mother is drying dishes.

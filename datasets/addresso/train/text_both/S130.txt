@@ -1,4 +1,4 @@
-I want you to tell me everything that you see going on in that picture.
+INV: I want you to tell me everything that you see going on in that picture.
 INV: Everything that you see happening there.
 PAR: A cookie jar.
 PAR: And the boy's going to get from the cookie jar.

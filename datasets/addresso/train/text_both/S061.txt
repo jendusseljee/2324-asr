@@ -1,4 +1,4 @@
-tell me everything that you see happening in that picture.
+INV: Tell me everything that you see happening in that picture.
 INV: Everything that you see going on.
 PAR: Alright.
 PAR: Boy is getting into the cookie jar.

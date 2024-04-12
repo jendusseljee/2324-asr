@@ -1,4 +1,4 @@
-okay.
+INV: Okay.
 INV: All of the action.
 PAR: Okay, I see a boy in the cookie jar.
 PAR: I see he has the lid off.

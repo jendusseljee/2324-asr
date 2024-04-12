@@ -1,4 +1,4 @@
-it's a kitchen scene.
+PAR: It's a kitchen scene.
 PAR: And the mother is doing the dishes.
 PAR: The children are trying to get into the cookie jar.
 PAR: The stool is falling over.

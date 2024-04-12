@@ -1,4 +1,4 @@
-this picture.
+INV: This picture.
 PAR: Yes.
 INV: And tell me everything that you see going on in that picture.
 INV: What's happening there?

@@ -1,4 +1,4 @@
-now I want you to tell me everything that you see happening in that picture.
+INV: Now I want you to tell me everything that you see happening in that picture.
 INV: Everything that you see going on there.
 PAR: Alright.
 PAR: The mother is standing at the kitchen sink.

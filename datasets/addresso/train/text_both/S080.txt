@@ -1,4 +1,4 @@
-okay and there's the picture.
+INV: Okay and there's the picture.
 INV: Tell me all the action.
 PAR: Okay he's falling off a stool.
 INV: Mhm.

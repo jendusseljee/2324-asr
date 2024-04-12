@@ -1,4 +1,4 @@
-tell me all the action going on in that picture.
+INV: Tell me all the action going on in that picture.
 INV: Can you tell me the action that you see going on in that picture?
 PAR: I see a tad bit.
 PAR: And somebody is drying dishes.

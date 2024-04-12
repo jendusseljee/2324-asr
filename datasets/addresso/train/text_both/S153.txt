@@ -1,4 +1,4 @@
-picture and tell me everything that you see happening in that picture.
+INV: Picture and tell me everything that you see happening in that picture.
 INV: Everything that's going on in there.
 INV: What do you see happening?
 PAR: Oh you want me to on that?

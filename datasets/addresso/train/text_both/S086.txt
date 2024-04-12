@@ -1,4 +1,4 @@
-there's the picture.
+INV: There's the picture.
 PAR: There's a little girl.
 PAR: And a little boy standing on top of a stool.
 PAR: And it looks like a mother maybe washing the dishes in the kitchen.

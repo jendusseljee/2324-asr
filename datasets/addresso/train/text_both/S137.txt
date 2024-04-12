@@ -1,4 +1,4 @@
-you see going on in the picture.
+INV: You see going on in the picture.
 PAR: The woman of the house is drying the dishes.
 PAR: Her sink is overflowing.
 PAR: The boy's stool is tipping.

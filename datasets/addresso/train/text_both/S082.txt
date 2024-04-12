@@ -1,4 +1,4 @@
-tell me everything that's going on.
+INV: Tell me everything that's going on.
 PAR: Well the kids are in the corner.
 PAR: They are going to get some cookies from the cookie jar.
 PAR: And the mother does not see it because she's inside drying the dishes.

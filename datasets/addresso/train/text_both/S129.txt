@@ -1,4 +1,4 @@
-tell me what's going on.
+INV: Tell me what's going on.
 PAR: Well the kid's up taking cookies out_of the cookie jar.
 PAR: The other one's there holding her hand.
 PAR: The jar is gonna fall.

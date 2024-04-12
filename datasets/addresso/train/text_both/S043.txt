@@ -1,4 +1,4 @@
-can I start?
+PAR: Can I start?
 INV: Mhm.
 PAR: There is a boy on the stool.
 PAR: The stool is tipping over.

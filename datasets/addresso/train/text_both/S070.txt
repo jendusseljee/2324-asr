@@ -1,4 +1,4 @@
-what I want you to do is to look at this picture and tell me everything that you see going on.
+INV: What I want you to do is to look at this picture and tell me everything that you see going on.
 INV: Everything that you see happening in that picture.
 PAR: Beginning now?
 INV: Yeah.

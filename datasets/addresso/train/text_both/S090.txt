@@ -1,4 +1,4 @@
-I'm going to show you a picture.
+INV: I'm going to show you a picture.
 INV: And I want you to look at the picture.
 INV: I want you to tell me everything that you see happening in the picture.
 PAR: Mhm.

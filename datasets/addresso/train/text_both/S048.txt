@@ -1,4 +1,4 @@
-I want you to take a look at this picture and I want you to tell me everything that's happening there.
+INV: I want you to take a look at this picture and I want you to tell me everything that's happening there.
 INV: Everything that's going on in that picture.
 PAR: Okay is there a number of things?
 PAR: I_mean do I hafta come up with a certain amount?

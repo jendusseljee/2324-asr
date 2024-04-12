@@ -1,4 +1,4 @@
-and tell me everything you see happening in that picture.
+INV: And tell me everything you see happening in that picture.
 INV: Everything that's going on there.
 PAR: You mean right now tell you?
 INV: Yeah mhm.

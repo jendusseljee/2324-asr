@@ -1,4 +1,4 @@
-look at that picture.
+INV: Look at that picture.
 PAR: Mhm.
 INV: And tell me everything that you see going on in that picture, everything that's happening.
 PAR: Mhm a_lot_of things are happening.

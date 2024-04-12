@@ -1,4 +1,4 @@
-now I'm going to show you a picture that has a_lot_of action going on in it.
+INV: Now I'm going to show you a picture that has a_lot_of action going on in it.
 INV: What I need you to do is to tell me all of the action you see going on in the picture.
 INV: Okay?
 INV: And here's the picture.

@@ -1,4 +1,4 @@
-have a look at that picture and tell me everything that you see going on in that picture.
+INV: Have a look at that picture and tell me everything that you see going on in that picture.
 INV: All the action.
 INV: What's happening there?
 PAR: Boy in the cookie jar.

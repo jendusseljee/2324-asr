@@ -1,4 +1,4 @@
-okay.
+INV: Okay.
 INV: There's the picture.
 PAR: Okay.
 INV: Go ahead.

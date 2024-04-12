@@ -1,4 +1,4 @@
-I want you to tell me everything you see happening in that picture.
+INV: I want you to tell me everything you see happening in that picture.
 PAR: Everything?
 INV: Everything you see happening.
 PAR: Happening?

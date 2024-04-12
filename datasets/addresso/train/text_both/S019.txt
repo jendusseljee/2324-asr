@@ -1,4 +1,4 @@
-take a look at this picture and tell me everything that you see going on in that picture.
+INV: Take a look at this picture and tell me everything that you see going on in that picture.
 INV: Tell me everything that you see happening there.
 PAR: Okay.
 PAR: Well the mother is drying the dishes.

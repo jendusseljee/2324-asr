@@ -1,4 +1,4 @@
-I'd like you to tell me all the action that you see going on in that picture.
+INV: I'd like you to tell me all the action that you see going on in that picture.
 PAR: Well the boy's climbing a stool.
 PAR: And it's gonna upset.
 PAR: He's trying to get a cookie.

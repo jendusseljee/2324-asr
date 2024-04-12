@@ -1,4 +1,4 @@
-I want you to take a look at this picture and tell me everything that you see going on in that picture.
+INV: I want you to take a look at this picture and tell me everything that you see going on in that picture.
 INV: Everything you see happening there.
 PAR: Okay.
 PAR: The boy is standing up trying to get the cookie jar and the stool is falling.

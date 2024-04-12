@@ -1,4 +1,4 @@
-on in the picture.
+INV: On in the picture.
 PAR: Girl is reaching up.
 PAR: The boy is taking cookies out_of the cookie jar.
 PAR: The stool is tilting.

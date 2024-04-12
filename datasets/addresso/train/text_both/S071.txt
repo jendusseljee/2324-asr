@@ -1,4 +1,4 @@
-the kids are in the cookies.
+PAR: The kids are in the cookies.
 PAR: The stool is falling over.
 PAR: The mother's spilling the water and also drying the dishes.
 PAR: And the wind might be blowing the curtains.

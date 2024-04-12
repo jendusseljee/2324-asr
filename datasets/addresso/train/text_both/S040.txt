@@ -1,4 +1,4 @@
-and there's the picture.
+INV: And there's the picture.
 PAR: Well let's see.
 PAR: The boy is taking cookies out_of the cookie jar.
 PAR: And the little girl is laughing.

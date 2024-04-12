@@ -1,4 +1,4 @@
-that's the picture.
+INV: That's the picture.
 PAR: A boy is taking cookies from the cookie jar giving one to his sister.
 PAR: He's also falling off the stool he is on.
 PAR: The mother is washing dishes.

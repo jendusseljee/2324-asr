@@ -1,4 +1,4 @@
-I want you to tell me everything that's happening in that picture.
+INV: I want you to tell me everything that's happening in that picture.
 INV: I want you to tell me everything that's going on in that picture.
 PAR: Well this boy is almost falling off of the stool when he's putting up the picture.
 PAR: And she's washing dishes.

@@ -1,4 +1,4 @@
-okay.
+INV: Okay.
 INV: Picture and tell me everything that you see happening here.
 INV: Everything that you see going on.
 PAR: Well the kid's standing on a tilted stool getting cookies.

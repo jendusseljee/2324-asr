@@ -1,4 +1,4 @@
-okay?
+INV: Okay?
 INV: The picture.
 INV: Tell me everything /. you want me to tell you?
 PAR: Okay the boy's getting in the cookie jar.

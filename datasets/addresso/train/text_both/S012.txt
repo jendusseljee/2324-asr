@@ -1,4 +1,4 @@
-okay ‡ you can start now.
+INV: Okay ‡ you can start now.
 PAR: Okay.
 PAR: The mother is wiping a dish at the sink.
 PAR: The water is overflowing from the sink.

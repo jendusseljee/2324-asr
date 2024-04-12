@@ -1,4 +1,4 @@
-just tell me everything that you see happening in the picture.
+INV: Just tell me everything that you see happening in the picture.
 PAR: Oh yes.
 PAR: A little girl and the little boy is getting cookies out_of the jar.
 PAR: Oh and the stool is upsetting.

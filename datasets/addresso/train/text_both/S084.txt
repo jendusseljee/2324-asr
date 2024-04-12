@@ -1,4 +1,4 @@
-alright.
+PAR: Alright.
 INV: Tell me what you see going on in that picture.
 PAR: I see the little boy stealing cookies from the cookie jar.
 INV: Yeah.

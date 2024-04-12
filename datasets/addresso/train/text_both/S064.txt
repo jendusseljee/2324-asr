@@ -1,4 +1,4 @@
-I am gonna show you a picture.
+INV: I am gonna show you a picture.
 INV: And in the picture there's some things going on.
 INV: What I want you to do is just look at the picture and describe to me any action you see taking place or anything you see happening.
 PAR: The kids are swiping some cookies and a stool is upsetting.
