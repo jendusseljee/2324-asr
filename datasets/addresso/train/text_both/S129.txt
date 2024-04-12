@@ -1,0 +1,19 @@
+tell me what's going on.
+PAR: Well the kid's up taking cookies out_of the cookie jar.
+PAR: The other one's there holding her hand.
+PAR: The jar is gonna fall.
+PAR: She's washing dishes and forgot to turn the sink off.
+PAR: Water's pouring all over the floor.
+PAR: Dishes are on the sink.
+PAR: And it looks like a face laying in the yard the way the grass is.
+INV: Tell me everything you see going on in the picture.
+INV: Just tell me when you're finished.
+PAR: That's what we got.
+PAR: Kid taking cookies out_of the cookie jar.
+PAR: The kid has her hand up after it.
+PAR: Mama's washing dishes.
+PAR: Sink's running over.
+PAR: And that's it.
+INV: Okay.
+PAR: Good.
+PAR: Window's open.

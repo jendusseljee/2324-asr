@@ -1,0 +1,24 @@
+okay.
+PAR: Water running out_of the sink.
+PAR: Lady drying a plate.
+PAR: And a child getting cookies out_of the cookie jar standing on a stool that is tipping over.
+PAR: And a little girl reaching up for a cookie.
+PAR: And curtains at the window.
+PAR: A path outside.
+PAR: A tree.
+PAR: A window into another room.
+PAR: Shrubbery.
+PAR: Grass.
+PAR: Let's get back to the room again.
+PAR: There's two cups and a plate sitting on the countertop.
+PAR: Cupboards.
+PAR: The lady has a apron on, dress, slippers.
+PAR: And the boy has on a short sleeve shirt, short pants, socks, and shoes.
+PAR: Little girl has on a dress, socks, strap slippers.
+PAR: Did I mention everything?
+PAR: Sink.
+PAR: Faucet with water running out_of it.
+PAR: An open window behind the sink.
+PAR: Tie back curtains.
+PAR: And that's all I see.
+INV: Okay ‡ great.

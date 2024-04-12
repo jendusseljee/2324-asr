@@ -1,0 +1,32 @@
+tell me what you see going on in this picture.
+PAR: I don't see.
+PAR: Looks like somebody took some pencils or something and went up and down those them things.
+INV: Can you see what's going on in that picture?
+PAR: I see a girl standing there or something or other.
+INV: Okay tell me what else you see.
+PAR: Some little knots or something.
+PAR: I don't know.
+.
+PAR: Some kind of a pan or something.
+PAR: And that girl is there.
+PAR: And there's something else over there.
+PAR: There's another girl look like.
+INV: What else do you see going on in the picture?
+INV: What's going on right here in this picture?
+PAR: Looks /. what's happening there?
+PAR: Look like a little girl is in there.
+INV: Mhm.
+INV: What else is going on?
+PAR: I don't see nothing else.
+PAR: Some of and things.
+INV: Uhhuh.
+INV: Can you tell me what's going on on this side of the picture?
+PAR: Look to me like the same except them things up there.
+INV: What are you talking about?
+PAR: I see this they all looked about the same to me except this thing here.
+PAR: Look like a little kid the same.
+INV: Uhhuh.
+INV: Can you see anything else in that picture?
+PAR: I'm sorry I didn't bring my glasses.
+INV: Maybe we can try another time when you have your glasses.
+INV: It does help to have /.

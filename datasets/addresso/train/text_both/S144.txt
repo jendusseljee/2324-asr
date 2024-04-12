@@ -1,0 +1,10 @@
+okay.
+INV: Picture and tell me everything that you see happening here.
+INV: Everything that you see going on.
+PAR: Well the kid's standing on a tilted stool getting cookies.
+PAR: The water's running out of the sink.
+PAR: The girl has two different shoes on.
+PAR: The stool is tilted.
+PAR: The cookie jar is not a jar it's a tin dish or whatever.
+INV: Okay.
+INV: Alright.

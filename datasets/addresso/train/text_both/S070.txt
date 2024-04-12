@@ -1,0 +1,15 @@
+what I want you to do is to look at this picture and tell me everything that you see going on.
+INV: Everything that you see happening in that picture.
+PAR: Beginning now?
+INV: Yeah.
+PAR: Boy is reaching for cookies.
+PAR: The stool is falling over.
+PAR: His sister is reaching for cookies.
+PAR: Woman's wiping the dishes.
+PAR: The sink is running over.
+PAR: Curtains are blowing a little bit but not much.
+PAR: The boy is stepping on one of his own toes.
+PAR: The little girl's telling him to "/. be quiet.
+PAR: Don't let mommy see.
+INV: And that's everything then?
+PAR: That's about it yeah.

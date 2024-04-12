@@ -1,0 +1,20 @@
+the boy is taking cookies.
+PAR: The girl is saying "/. quiet.
+PAR: The boy is falling off the stool.
+PAR: The mother is drying dishes.
+PAR: The water is running over the sink.
+PAR: The curtains are blowing in the breeze.
+.
+PAR: The girl is putting her hand up to have him pass the cookies.
+PAR: She's drying the dishes.
+PAR: The water's running over.
+PAR: It's splashing on the floor.
+PAR: Well the window's open but that's not action.
+PAR: That's the curtain blowing right?
+INV: Okay.
+PAR: I guess that's it.
+PAR: He's passing her the cookies.
+PAR: Did I say that?
+INV: Okay.
+PAR: And he's taking them out of the jar.
+INV: Good.

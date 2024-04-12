@@ -1,0 +1,27 @@
+I want you to tell me everything that's happening in that picture.
+INV: I want you to tell me everything that's going on in that picture.
+PAR: Well this boy is almost falling off of the stool when he's putting up the picture.
+PAR: And she's washing dishes.
+PAR: I guess she wouldn't know.
+PAR: Oh my!
+PAR: Her sink is running over too isn't it.
+INV: Mhm.
+PAR: Is that all or is there more to it?
+PAR: This one looks kind_of like a ... oh that's a plate I guess.
+PAR: And a cup and saucer.
+PAR: Oh this is a lady here.
+PAR: Is it or isn't it?
+PAR: Right there.
+PAR: Is that a lady?
+INV: No hmhunh.
+PAR: When I had it this way it looked almost like a lady.
+INV: Just tell me anything you see happening in there.
+PAR: Oh.
+INV: And just turn it this way.
+PAR: She's washing dishes.
+INV: Mhm.
+PAR: And she must have dropped one.
+PAR: Oh no she let the sink ran over.
+PAR: And he's almost falling off of the stool.
+PAR: And she did something, it looks like.
+INV: Okay good.

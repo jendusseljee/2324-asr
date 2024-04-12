@@ -1,0 +1,7 @@
+the water's running on the floor.
+PAR: Boy's taking cookie out_of the cookie jar.
+PAR: The stool is falling over.
+PAR: The girl was asking for a cookie.
+PAR: The wife is wiping the dish.
+INV: Anything else?
+PAR: I guess not.

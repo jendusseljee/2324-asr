@@ -1,0 +1,12 @@
+take a look at this picture.
+INV: I want you to tell me everything that you see happening in that picture.
+INV: Everything that's going on there.
+PAR: Okay.
+PAR: The lady's washing the dishes like they always do.
+INV: Mhm.
+PAR: A little boy's up on the stool falling over.
+PAR: He's trying to get a cookie.
+PAR: And the girl's trying to help and she's reaching her hand up.
+PAR: And they overran the sink.
+PAR: Spilled water all over.
+INV: Okay.

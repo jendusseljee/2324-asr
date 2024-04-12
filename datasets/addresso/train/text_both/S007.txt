@@ -1,0 +1,11 @@
+okay and here's the picture.
+INV: All of the action you see going on.
+PAR: Boy taking cookies out_of a cookie jar.
+PAR: The stool is falling.
+PAR: The little girl is reaching.
+PAR: Water is running out of the faucet.
+PAR: The water is overflowing the sink.
+PAR: Woman is drying dishes.
+INV: Anything else?
+PAR: There's nothing to indicate and I don't see any more action.
+INV: Okay good that's fine.

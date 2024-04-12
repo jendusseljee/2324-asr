@@ -1,0 +1,43 @@
+I'm gonna show you a picture now.
+INV: I want you to tell me what you see going on in this picture.
+INV: Tell me what's happening in that picture.
+PAR: This is a clause copy c by his ... look at the picture up here.
+PAR: Yeah uhhuh.
+INV: Tell me what's going on in the picture.
+PAR: A x.
+INV: Can you tell me what's going on in this picture?
+PAR: The sun.
+INV: Look here.
+INV: You see up here?
+INV: What's going on in this picture?
+PAR: Mhm.
+INV: What do you see in this picture?
+PAR: His x.
+INV: Can you tell me what's going on over here?
+PAR: Ample rice discharged.
+PAR: Charged.
+PAR: Flexible.
+PAR: Flexible.
+.
+INV: Can you tell me what's going on in this picture?
+PAR: My husband and ... what's going on in this picture here?
+PAR: Is there somebody else there?
+INV: Missus_last_name?
+PAR: Her.
+INV: Missus_last_name.
+PAR: Last_name yeah.
+INV: Missus_last_name can you look at me?
+INV: Can you look at me?
+INV: I want you to look at the picture here.
+PAR: Yeah.
+INV: Right here.
+INV: What's going on right there?
+INV: What do you see?
+PAR: A lovely girl.
+INV: Uhhuh any /? a do guess getting older I see I so.
+INV: Uhhuh.
+INV: Can you see anything else in the picture?
+INV: Right here?
+PAR: Oh no.
+PAR: This oh I can just ... okay let me take this away from you.
+.

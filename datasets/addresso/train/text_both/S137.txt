@@ -1,0 +1,24 @@
+you see going on in the picture.
+PAR: The woman of the house is drying the dishes.
+PAR: Her sink is overflowing.
+PAR: The boy's stool is tipping.
+PAR: He's taking cookies out_of a jar.
+PAR: He's handing one to his sister.
+PAR: And oh she's already dried some dishes right here I guess.
+PAR: Well what is this honey?
+PAR: I can't make that out.
+PAR: It look like a ... all you needta tell me is the action.
+PAR: Oh action.
+PAR: Oh ‡ I'm sorry.
+INV: Anything going on.
+PAR: She's drying the dishes.
+PAR: She's standing in water if that's action.
+INV: Okay.
+PAR: And the door is open where the cookies are.
+PAR: They all have their shoes on.
+PAR: Oh she's got an apron on over her dress.
+PAR: Kind_of homely girl isn't she?
+PAR: She's not doing much she's just got her hand like.
+PAR: How many did I get wrong?
+INV: No that's fine, you did fine.
+PAR: Okay.

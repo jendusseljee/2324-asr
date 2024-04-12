@@ -1,0 +1,34 @@
+I'm going to show you a picture.
+INV: And I want you to look at the picture.
+INV: I want you to tell me everything that you see happening in the picture.
+PAR: Mhm.
+INV: Just tell me everything that you see going on.
+INV: Now there's the picture.
+INV: Look down here Mister_Lastname.
+PAR: Oh I see a part of the whole kitchen.
+PAR: Is that all the kitchen or isn't it?
+PAR: Oh I can't read ... a lady a mother were in her kitchen.
+PAR: In her kitchen doing some work I suppose.
+PAR: And there's another woman there sharing their pleasures or whatever.
+INV: Okay there it is.
+PAR: Oh have you heard of that new game that they started to play after christmas?
+INV: Yes you were telling me about that Mister_Lastname.
+PAR: Did you?
+INV: Trivial_pursuit mhm.
+PAR: Is a /. just tell me do you see anything else happening in this picture here?
+INV: What else do you see happening?
+INV: What's going on there?
+PAR: Well it looks like ... I'd say this is ... well let's see.
+PAR: It looks like ... oh ... x x.
+PAR: My wife will beat me by a couple rows of this.
+INV: What's happening over here Mister_Lastname?
+PAR: That's like the washing machine?
+PAR: Or let me see.
+PAR: I can't ... oh ‡ that's the son come from school maybe or something.
+INV: Mhm.
+PAR: That's a youngster there.
+INV: What's going on here?
+PAR: Well that's just as though they getting ready to go to school or they're just coming out from school.
+INV: Okay and what's happening here?
+PAR: And right there he's same as back there except for down there in the bottom I think it's ... that's a little.
+INV: Okay.

@@ -1,0 +1,24 @@
+it's a kitchen scene.
+PAR: And the mother is doing the dishes.
+PAR: The children are trying to get into the cookie jar.
+PAR: The stool is falling over.
+PAR: The water is running over in the sink.
+PAR: It looks as though the window is open.
+PAR: And there is grass and what have you, grass and trees outside.
+PAR: Looks like the curtains might be billowing a little.
+PAR: The little girl is asking the boy for a cookie.
+PAR: And let's see.
+PAR: The mother's drying the dishes.
+PAR: And she's standing in the water.
+PAR: Looks like there are a couple dishes that have already been dried sitting on the sink.
+PAR: I guess that's all I see.
+INV: Can you tell me what's going on over here?
+PAR: Pardon me?
+INV: Tell me this again.
+PAR: I might have missed it what you said.
+PAR: Oh I said the little boy's trying to get some cookies out_of the cookie jar.
+INV: Okay.
+PAR: And the little girl's asking for a cookie.
+PAR: And the stool looks as though it's going to fall over.
+INV: Okay.
+INV: Okay good.

@@ -1,0 +1,15 @@
+tell me all the action that you see going on in the picture.
+PAR: Action.
+INV: Mhm.
+PAR: Alright.
+PAR: A lady's drying dishes.
+PAR: The boy was standing on a stool but the action is that the stool has slipped and he is falling.
+PAR: And the girl has her hand raised reaching for a cookie.
+PAR: And there's a_lot_of action in the sink here.
+PAR: The water is flowing out.
+PAR: She is apparently so daydreaming that she doesn't realize that the sink is overflowing.
+PAR: Any more action?
+INV: Okay.
+PAR: Or is that enough action?
+INV: That's it.
+INV: Okay good.

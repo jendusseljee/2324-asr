@@ -1,0 +1,13 @@
+happening.
+INV: Everything that you see happening in that picture.
+INV: What's going on in that picture?
+PAR: The water's flowing on the floor.
+INV: Uhhuh.
+INV: What else?
+PAR: And she's drying dishes.
+INV: Mhm.
+PAR: And he's up in the cookie jar.
+PAR: And she's drying dishes.
+INV: Mhm.
+INV: Okay good.
+PAR: Thank you very much.

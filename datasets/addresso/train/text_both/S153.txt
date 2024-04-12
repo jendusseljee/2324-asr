@@ -1,0 +1,13 @@
+picture and tell me everything that you see happening in that picture.
+INV: Everything that's going on in there.
+INV: What do you see happening?
+PAR: Oh you want me to on that?
+INV: Yeah you can just tell me.
+PAR: Oh okay looks like the mother is washing the dishes.
+PAR: And the little boy is trying to get cookies up in the cookie jar.
+PAR: And there's a little girl with him.
+PAR: And oh the stool or what do you call it it looks like it's going to fall.
+PAR: And that's about all I can see.
+PAR: And I guess this is breakfast.
+.
+INV: Okay that's fine.

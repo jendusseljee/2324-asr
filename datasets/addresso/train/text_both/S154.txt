@@ -1,0 +1,10 @@
+okay?
+INV: The picture.
+INV: Tell me everything /. you want me to tell you?
+PAR: Okay the boy's getting in the cookie jar.
+PAR: His sister's waiting for cookies.
+PAR: The mother's washing dishes and water's spilling over.
+PAR: Can see the walk and the grass outside in the window.
+PAR: The stool's about ready to fall.
+PAR: The cupboard door's open.
+INV: Okay.

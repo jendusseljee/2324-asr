@@ -1,0 +1,19 @@
+okay and there's the picture.
+INV: Tell me all the action.
+PAR: Okay he's falling off a stool.
+INV: Mhm.
+INV: Anything else?
+PAR: She's running the water over.
+INV: Okay.
+PAR: Can't see anything else.
+INV: Okay anymore action?
+PAR: No.
+INV: Okay.
+PAR: Okay.
+INV: Pardon me?
+PAR: She's step in the water.
+INV: Okay.
+INV: Anything else?
+PAR: No.
+INV: Okay.
+INV: Okay Mister Last_Name.

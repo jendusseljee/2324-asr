@@ -1,0 +1,17 @@
+okay good.
+INV: Going on in the picture.
+PAR: Well the poor mother's doing dishes.
+PAR: There's a boy on a stool.
+PAR: Cookie jar.
+PAR: And a girl down below.
+PAR: Is that all you wanted to know?
+INV: Tell me everything that you see going on in the picture.
+PAR: Okay.
+PAR: There's a cookie jar.
+PAR: The little boy is standing on a stool and he's ready to go over.
+PAR: The little girl's standing there.
+PAR: The mother's at the sink doing dishes.
+PAR: Her water's overflowing.
+INV: Okay anything else?
+PAR: That's about it.
+INV: Okay good.

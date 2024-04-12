@@ -1,0 +1,19 @@
+and there's the picture.
+INV: Tell me everything you see going on in the picture.
+PAR: I see a boy getting in the cookie jar.
+PAR: He's handing cookies to his sister.
+PAR: His sister is standing on the floor receiving the cookies.
+PAR: The boy is standing on the stool and it is in the process of toppling over.
+PAR: The cookie jar is quite full at the present time.
+PAR: The lid is off the cookie jar.
+PAR: The mother is standing at the kitchen sink.
+PAR: She is wiping dishes.
+PAR: The sink is overflowing.
+PAR: The water is running onto the floor splashing onto the floor.
+PAR: There are other dishes.
+PAR: There's a dish and two other cups on the counter beside her.
+PAR: Over the sink is a window with curtains.
+PAR: And the window is open.
+PAR: And outside there is a tree and grass and shrubbery in sight.
+PAR: Also a path and a window into a garage or another portion of the house is visible.
+INV: Okay.

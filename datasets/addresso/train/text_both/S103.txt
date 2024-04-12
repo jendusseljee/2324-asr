@@ -1,0 +1,13 @@
+I want you to tell me everything that you see going on in that picture.
+INV: Just tell me everything that you see happening there.
+PAR: The boy's falling off the stool.
+PAR: The girl's got her hand up.
+PAR: The lady's drying dishes.
+PAR: The water is spilling on the floor.
+PAR: Faucet's on.
+PAR: The boy's trying to get a cookie jar out.
+PAR: Lid's off of it.
+INV: Okay?
+PAR: Sink's by the window.
+PAR: That's all I know.
+INV: Okay that's great.

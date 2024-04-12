@@ -1,0 +1,22 @@
+just tell me everything that you see happening in the picture.
+PAR: Oh yes.
+PAR: A little girl and the little boy is getting cookies out_of the jar.
+PAR: Oh and the stool is upsetting.
+PAR: And I guess it's the mother is drying dishes.
+PAR: Water's spilling down all over the sink.
+PAR: Water on the floor.
+PAR: Little boy's gonna fall and that there stool.
+PAR: I think the cookie jar is gonna fall.
+PAR: And guess drying dishes and the faucet's on and water's running all over the floor.
+PAR: What ..? anything else?
+INV: Just the things that you see happening.
+PAR: Yeah.
+PAR: The cookie jar.
+INV: Yeah.
+PAR: The stool.
+INV: Mhm.
+PAR: Her doing the dishes.
+PAR: The water spilling.
+INV: Okay?
+PAR: Yeah that's as far as I could see.
+INV: Well /.

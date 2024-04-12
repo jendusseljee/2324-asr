@@ -1,0 +1,13 @@
+can you see the picture here?
+PAR: Mhm.
+INV: Tell me what's going on in that picture.
+INV: What's happening there?
+INV: Just tell me what you see happening in the picture.
+PAR: Oh.
+PAR: There's a cookie jar.
+INV: Mhm.
+PAR: And the boy is toppling off a stool.
+PAR: And the mother is spilling the water.
+PAR: And what else?
+PAR: That's about it.
+INV: Okay good.

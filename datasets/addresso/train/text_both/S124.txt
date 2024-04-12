@@ -1,0 +1,18 @@
+I'd like you to tell me all the action that you see going on in that picture.
+PAR: Well the boy's climbing a stool.
+PAR: And it's gonna upset.
+PAR: He's trying to get a cookie.
+PAR: And the sink is running over.
+PAR: The mother's drying a dish.
+PAR: And the little girl is reaching up for a cookie.
+INV: Anything else?
+INV: Is there anything else going on in that picture?
+PAR: Hmhunh.
+PAR: The mother over there she's doing the dishes.
+PAR: And the sink's running.
+PAR: The boy's getting the cookies.
+PAR: Stool's on that step.
+PAR: Window's open.
+PAR: Maybe the wind is blowing in.
+INV: Okay.
+INV: Okay.

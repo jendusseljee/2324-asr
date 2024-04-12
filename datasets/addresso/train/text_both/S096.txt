@@ -1,0 +1,19 @@
+tell me all the action going on in that picture.
+INV: Can you tell me the action that you see going on in that picture?
+PAR: I see a tad bit.
+PAR: And somebody is drying dishes.
+INV: Okay good.
+PAR: No I can't get this very well, clear.
+INV: What else can you see going on in that picture?
+PAR: Well someone's standing on a stool and the stool is getting ready to fall over.
+INV: Okay.
+PAR: Well somebody's drying dishes.
+INV: Can you see anything else going on over here?
+PAR: No I don't see anything else going on over here.
+PAR: I'm thinking now maybe the water's overrunning.
+PAR: I'm not too sure.
+INV: Okay.
+PAR: There's some water on the floor here.
+PAR: And there's some in the sink that's overrunning.
+.
+INV: Okay good.

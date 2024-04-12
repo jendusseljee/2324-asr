@@ -1,0 +1,33 @@
+okay let's try something different okay?
+INV: Tell me what you see in that picture.
+PAR: Oh there's a cookie jar and a youngster with a cookie jar.
+PAR: And the boy has a shirt with a cookie jar too I guess.
+PAR: The girl has one too a jar.
+PAR: And that's the stool.
+PAR: And this is with a kitchen thing dishes.
+PAR: And this is water somebody spilled.
+PAR: This is some more junk.
+PAR: What do you call this?
+PAR: I don't know.
+PAR: I guess it's another for the ... I don't know what's x in there.
+PAR: The x very interesting.
+INV: What's going over here Missus Last_Name?
+INV: What do you see going on over there?
+PAR: Oh I don't know.
+PAR: She's looking at it.
+PAR: I don't know what.
+PAR: That the kid's gonna fall off the stool.
+PAR: I hope he does.
+PAR: Dumb kids.
+INV: What else is going on over here?
+PAR: Oh they're in the cookie jar.
+INV: Over here.
+INV: Can you look over here now?
+INV: What do you see going on over here?
+PAR: Oh what are they doing?
+PAR: I don't know.
+PAR: They're spilling something good and much.
+PAR: They're doing the dishes.
+PAR: Dishes they are.
+PAR: The boy's trying to fall off the stool and she's trying to get the dishes all done.
+INV: Okay.

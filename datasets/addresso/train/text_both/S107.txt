@@ -1,0 +1,40 @@
+have a look at that picture and tell me everything that you see going on in that picture.
+INV: All the action.
+INV: What's happening there?
+PAR: Boy in the cookie jar.
+INV: I'm sorry?
+PAR: Boy in a cookie jar.
+INV: Boy in the cookie jar.
+PAR: Drying dishes.
+PAR: Girl assisting boy with cookie jar.
+.
+INV: Pardon?
+.
+INV: Mhm.
+.
+PAR: Towel.
+INV: Pardon?
+PAR: Towel.
+INV: Towel?
+PAR: Mhm.
+.
+INV: Pardon?
+.
+INV: Uhhuh.
+INV: What's happening here?
+PAR: Boing.
+PAR: Stool.
+PAR: Boy.
+INV: Good.
+INV: Anything else?
+PAR: Garage.
+INV: Pardon?
+PAR: Garage.
+INV: I'm sorry?
+PAR: Garage.
+INV: Garage, mhm.
+PAR: Yeah.
+PAR: Windows ... and the garage.
+INV: Okay good.
+PAR: Okay.
+INV: Good.
