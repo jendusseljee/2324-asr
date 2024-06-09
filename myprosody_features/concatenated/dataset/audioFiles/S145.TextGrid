@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.838004535147393 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 8.838004535147393 
+        points: size = 34 
+        points [1]:
+            number = 0.17659998971135166 
+            mark = "1" 
+        points [2]:
+            number = 0.4720693492769621 
+            mark = "2" 
+        points [3]:
+            number = 0.6624727733676629 
+            mark = "3" 
+        points [4]:
+            number = 0.9524243916486311 
+            mark = "4" 
+        points [5]:
+            number = 1.0521904724327986 
+            mark = "5" 
+        points [6]:
+            number = 1.4922273821895609 
+            mark = "6" 
+        points [7]:
+            number = 1.5716685994813324 
+            mark = "7" 
+        points [8]:
+            number = 1.7605283167878192 
+            mark = "8" 
+        points [9]:
+            number = 1.9089183774439895 
+            mark = "9" 
+        points [10]:
+            number = 2.05333431494413 
+            mark = "10" 
+        points [11]:
+            number = 2.228779526894488 
+            mark = "11" 
+        points [12]:
+            number = 2.4960378400780034 
+            mark = "12" 
+        points [13]:
+            number = 2.8063733307744614 
+            mark = "13" 
+        points [14]:
+            number = 2.9593672940314644 
+            mark = "14" 
+        points [15]:
+            number = 3.0400648769441783 
+            mark = "15" 
+        points [16]:
+            number = 3.5423268515768327 
+            mark = "16" 
+        points [17]:
+            number = 3.75003919648785 
+            mark = "17" 
+        points [18]:
+            number = 3.952657284640933 
+            mark = "18" 
+        points [19]:
+            number = 4.020924949263955 
+            mark = "19" 
+        points [20]:
+            number = 4.247146571327167 
+            mark = "20" 
+        points [21]:
+            number = 4.427047227879239 
+            mark = "21" 
+        points [22]:
+            number = 4.633325938328597 
+            mark = "22" 
+        points [23]:
+            number = 4.871313684760748 
+            mark = "23" 
+        points [24]:
+            number = 5.0784591083508746 
+            mark = "24" 
+        points [25]:
+            number = 5.27104164558723 
+            mark = "25" 
+        points [26]:
+            number = 5.353064746877954 
+            mark = "26" 
+        points [27]:
+            number = 5.534833768377165 
+            mark = "27" 
+        points [28]:
+            number = 6.020415300211384 
+            mark = "28" 
+        points [29]:
+            number = 6.390853627017717 
+            mark = "29" 
+        points [30]:
+            number = 7.186577136970046 
+            mark = "30" 
+        points [31]:
+            number = 7.311279483275984 
+            mark = "31" 
+        points [32]:
+            number = 7.5010955384602 
+            mark = "32" 
+        points [33]:
+            number = 7.812602118805028 
+            mark = "33" 
+        points [34]:
+            number = 8.469794169855692 
+            mark = "34" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 8.838004535147393 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.643002267573697 
+            text = "sounding" 
+        intervals [2]:
+            xmin = 6.643002267573697 
+            xmax = 7.139002267573696 
+            text = "silent" 
+        intervals [3]:
+            xmin = 7.139002267573696 
+            xmax = 8.003002267573695 
+            text = "sounding" 
+        intervals [4]:
+            xmin = 8.003002267573695 
+            xmax = 8.387002267573695 
+            text = "silent" 
+        intervals [5]:
+            xmin = 8.387002267573695 
+            xmax = 8.838004535147393 
+            text = "sounding" 

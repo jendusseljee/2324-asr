@@ -1,0 +1,108 @@
+,ID,age,gender,mmse,class,path,features,pred
+6,S007,71,male,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S007.txt,[ 1.  0.  0. ...  1.  1. 25.],0.6452003825833191
+9,S012,77,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S012.txt,[ 7.  0.  0. ...  1.  1. 67.],0.26342019531958555
+12,S016,63,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S016.txt,[13.  0.  0. ...  1.  1. 73.],0.6982025777430935
+14,S018,72,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S018.txt,[ 13.   0.   0. ...   1.   1. 121.],0.3771450145003308
+16,S020,58,male,27.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S020.txt,[ 9.  0.  0. ...  1.  1. 73.],0.314696761835008
+23,S030,70,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S030.txt,[ 9.  0.  0. ...  1.  1. 75.],0.32792616156897614
+29,S038,57,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S038.txt,[ 14.   0.   0. ...   1.   1. 143.],0.315822720076944
+36,S051,65,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S051.txt,[ 13.   0.   0. ...   1.   1. 163.],0.46688436907631425
+38,S055,70,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S055.txt,[ 16.   0.   0. ...   1.   1. 153.],0.7662735163416323
+43,S062,64,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S062.txt,[ 4.  0.  0. ...  1.  1. 39.],0.23531493510795648
+48,S070,72,female,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S070.txt,[ 6.  0.  0. ...  1.  1. 62.],0.1914501309624689
+55,S080,55,male,19.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S080.txt,[ 2.  0.  0. ...  0.  1. 16.],0.7257054722894479
+56,S081,69,male,19.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S081.txt,[ 22.   0.   0. ...   1.   1. 127.],0.053469262260406436
+59,S084,68,male,21.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S084.txt,[ 20.   0.   0. ...   1.   1. 218.],0.8760779084086032
+66,S094,64,female,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S094.txt,[11.  0.  0. ...  1.  1. 92.],0.7376133310409164
+70,S100,68,female,14.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S100.txt,[ 2.  0.  0. ...  1.  1. 55.],0.6432272011260989
+86,S128,59,female,16.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S128.txt,[ 5.  0.  0. ...  0.  1. 61.],0.8241659895624355
+92,S137,64,female,23.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S137.txt,[  6.   0.   1. ...   1.   1. 113.],0.4038244682766809
+94,S139,69,female,25.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S139.txt,[ 0.  0.  0. ...  0.  1. 13.],0.735709885215158
+100,S145,77,male,14.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S145.txt,[ 3.  0.  0. ...  1.  1. 31.],0.7464312630863287
+102,S149,70,female,12.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S149.txt,[ 2.  0.  0. ...  0.  1. 43.],0.953439499816226
+106,S154,65,female,20.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S154.txt,[ 7.  0.  0. ...  1.  1. 49.],0.37989082516504197
+1,S002,62,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S002.txt,[ 7.  0.  2. ...  1.  1. 33.],0.5899678477729826
+4,S005,74,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S005.txt,[11.  0.  1. ...  1.  1. 96.],0.18536524000683813
+7,S009,67,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S009.txt,[ 7.  0.  0. ...  1.  1. 59.],0.5960826961952547
+11,S015,70,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S015.txt,[12.  0.  0. ...  1.  1. 86.],0.3551129420056328
+22,S029,72,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S029.txt,[ 6.  0.  0. ...  1.  1. 74.],0.10094703959606555
+24,S032,57,female,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S032.txt,[ 6.  0.  0. ...  1.  1. 90.],0.7022854900354414
+28,S036,73,male,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S036.txt,[ 8.  0.  0. ...  1.  1. 91.],0.4477135928024509
+37,S052,67,male,27.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S052.txt,[ 18.   0.   0. ...   1.   1. 135.],0.04017554255563785
+45,S064,61,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S064.txt,[ 6.  0.  0. ...  1.  1. 57.],0.82980443705525
+47,S068,50,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S068.txt,[ 2.  0.  0. ...  1.  1. 14.],0.7888421955922568
+50,S072,75,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S072.txt,[ 11.   0.   0. ...   1.   1. 101.],0.13406837132866775
+63,S090,59,male,8.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S090.txt,[  5.   0.   0. ...   1.   1. 137.],0.6246125538941416
+67,S095,74,female,24.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S095.txt,[ 3.  0.  0. ...  1.  1. 47.],0.7104197365488176
+68,S096,71,female,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S096.txt,[ 5.  0.  0. ...  1.  1. 71.],0.6713946979139231
+74,S107,77,male,22.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S107.txt,[ 0.  0.  0. ...  1.  1. 36.],0.9508376837332488
+76,S110,73,female,16.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S110.txt,[ 12.   0.   0. ...   1.   1. 103.],0.9494994909366636
+81,S122,62,female,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S122.txt,[  8.   0.   0. ...   1.   1. 106.],0.9767552550008514
+82,S124,69,female,19.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S124.txt,[ 2.  0.  0. ...  1.  1. 40.],0.600325913412502
+89,S132,61,female,11.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S132.txt,[14.  0.  1. ...  1.  1. 76.],0.6171282796172974
+97,S142,73,male,14.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S142.txt,[ 9.  0.  0. ...  0.  1. 97.],0.9021571093079992
+98,S143,60,female,18.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S143.txt,[ 7.  0.  0. ...  1.  1. 45.],0.6187202172999409
+105,S153,68,female,12.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S153.txt,[ 5.  0.  0. ...  1.  1. 77.],0.8526529874990869
+10,S013,57,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S013.txt,[ 2.  0.  0. ...  1.  1. 43.],0.43630134440560125
+13,S017,65,female,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S017.txt,[11.  0.  0. ...  1.  1. 77.],0.36654807404413003
+18,S024,73,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S024.txt,[ 18.   1.   2. ...   1.   1. 169.],0.1223086025014824
+25,S033,61,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S033.txt,[ 6.  0.  0. ...  1.  1. 44.],0.48734057482730325
+27,S035,66,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S035.txt,[ 0.  0.  0. ...  1.  1. 40.],0.4824876622281483
+31,S040,66,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S040.txt,[ 5.  0.  0. ...  0.  1. 38.],0.3687243558352138
+32,S041,57,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S041.txt,[ 14.   0.   1. ...   1.   1. 164.],0.26142264832569395
+34,S048,64,male,26.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S048.txt,[  9.   0.   0. ...   1.   1. 105.],0.4623018418859431
+41,S059,57,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S059.txt,[14.  0.  0. ...  0.  1. 81.],0.12264116534811689
+44,S063,65,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S063.txt,[ 7.  0.  0. ...  1.  1. 78.],0.6531685886386989
+51,S073,61,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S073.txt,[ 8.  0.  0. ...  1.  1. 76.],0.612749769271817
+60,S086,57,male,18.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S086.txt,[ 4.  0.  0. ...  1.  1. 41.],0.5065917246207324
+62,S089,65,male,18.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S089.txt,[ 0.  0.  0. ...  1.  1. 26.],0.5593393721511032
+71,S101,56,female,24.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S101.txt,[ 4.  0.  0. ...  0.  1. 43.],0.5268881111931841
+77,S111,66,female,1.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S111.txt,[ 0.  0.  0. ...  1.  1. 62.],0.7134867890907558
+78,S114,66,male,16.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S114.txt,[ 3.  0.  0. ...  1.  1. 61.],0.6510713773235808
+79,S116,62,female,12.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S116.txt,[ 6.  0.  0. ...  1.  1. 77.],0.48881430099547013
+85,S127,72,female,19.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S127.txt,[ 6.  0.  0. ...  1.  1. 40.],0.6585574860019359
+88,S130,58,female,18.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S130.txt,[ 5.  0.  0. ...  1.  1. 58.],0.7134877615056664
+90,S135,74,male,14.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S135.txt,[ 1.  0.  0. ...  1.  1. 64.],0.7940427883673145
+104,S151,72,male,24.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S151.txt,[ 7.  0.  0. ...  0.  1. 49.],0.8139953807097929
+2,S003,69,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S003.txt,[ 14.   0.   1. ...   1.   1. 129.],0.06185362351670983
+15,S019,57,female,27.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S019.txt,[ 9.  0.  0. ...  1.  1. 63.],0.1301729689623277
+17,S021,64,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S021.txt,[ 19.   0.   0. ...   1.   1. 101.],0.038121382401995196
+20,S027,78,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S027.txt,[ 6.  0.  0. ...  1.  1. 58.],0.538935314888308
+26,S034,65,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S034.txt,[ 7.  0.  2. ...  0.  1. 75.],0.09504801387352646
+33,S043,69,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S043.txt,[ 17.   0.   0. ...   1.   1. 102.],0.010517796523906029
+39,S056,68,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S056.txt,[ 18.   0.   0. ...   1.   1. 136.],0.05381240145989068
+40,S058,69,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S058.txt,[10.  0.  0. ...  1.  1. 74.],0.0814602033223363
+49,S071,74,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S071.txt,[ 9.  0.  0. ...  0.  1. 53.],0.6375052905712928
+53,S077,77,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S077.txt,[  9.   0.   0. ...   1.   1. 171.],0.7315042454273734
+54,S079,59,male,11.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S079.txt,[  9.   0.   0. ...   1.   1. 119.],0.3845011258956277
+57,S082,66,male,11.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S082.txt,[  8.   0.   0. ...   1.   1. 152.],0.8406499232004312
+58,S083,52,male,30.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S083.txt,[ 6.  0.  0. ...  1.  1. 95.],0.046126404958535136
+73,S104,64,male,27.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S104.txt,[ 12.   0.   1. ...   1.   1. 147.],0.725830630224375
+75,S108,61,male,13.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S108.txt,[ 14.   0.   0. ...   1.   1. 265.],0.9916675058262927
+84,S126,73,male,13.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S126.txt,[  4.   0.   0. ...   1.   1. 110.],0.029782376815210603
+87,S129,65,female,19.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S129.txt,[11.  0.  0. ...  0.  1. 91.],0.41830982662989324
+91,S136,79,male,23.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S136.txt,[ 2.  0.  0. ...  0.  1. 29.],0.5990944933572673
+95,S140,79,female,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S140.txt,[  6.   0.   0. ...   0.   0. 111.],0.958757565623075
+96,S141,65,male,19.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S141.txt,[10.  0.  0. ...  1.  1. 80.],0.7527687964665297
+99,S144,73,male,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S144.txt,[ 5.  0.  0. ...  1.  1. 42.],0.2781102440897024
+3,S004,71,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S004.txt,[ 20.   0.   1. ...   1.   1. 232.],0.12182622547490667
+5,S006,67,female,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S006.txt,[  8.   0.   0. ...   1.   1. 100.],0.20655104687431744
+8,S011,70,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S011.txt,[ 5.  0.  0. ...  1.  1. 53.],0.6370975390881608
+19,S025,67,female,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S025.txt,[ 4.  0.  0. ...  1.  1. 92.],0.38079235056364036
+21,S028,59,male,29.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S028.txt,[ 6.  0.  0. ...  1.  1. 58.],0.46160710526867277
+30,S039,66,female,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S039.txt,[ 25.   0.   1. ...   1.   1. 183.],0.06150740630966505
+35,S049,65,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S049.txt,[ 6.  0.  0. ...  1.  1. 35.],0.2239389361695814
+42,S061,60,female,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S061.txt,[ 14.   0.   0. ...   1.   1. 131.],0.39804820067564195
+46,S067,57,male,30.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S067.txt,[ 7.  0.  0. ...  1.  1. 65.],0.2370879895845158
+52,S076,78,female,28.0,0,../datasets/addresso/train/whisper_med_transcript_processed/S076.txt,[ 7.  0.  0. ...  1.  1. 86.],0.5
+61,S087,70,female,7.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S087.txt,[ 8.  0.  0. ...  1.  1. 43.],0.4845807312197031
+64,S092,74,female,15.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S092.txt,[ 11.   0.   0. ...   1.   1. 104.],0.7525236570926822
+65,S093,68,female,25.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S093.txt,[ 7.  0.  0. ...  1.  1. 66.],0.4808149661991293
+69,S097,68,female,15.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S097.txt,[  5.   0.   0. ...   1.   1. 143.],0.6029749956345178
+72,S103,64,male,27.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S103.txt,[ 7.  0.  0. ...  0.  0. 44.],0.4490279179544858
+80,S118,77,female,10.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S118.txt,[ 10.   0.   0. ...   1.   1. 158.],0.7649070978553557
+83,S125,57,female,13.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S125.txt,[ 1.  0.  0. ...  0.  1. 16.],0.6206942728729014
+93,S138,65,female,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S138.txt,[ 3.  0.  0. ...  0.  0. 26.],0.5613733244249586
+101,S148,74,male,17.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S148.txt,[ 1.  0.  0. ...  1.  1. 38.],0.7682666186437677
+103,S150,58,male,20.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S150.txt,[ 2.  0.  0. ...  0.  0. 26.],0.6172531170219081
+107,S156,71,female,13.0,1,../datasets/addresso/train/whisper_med_transcript_processed/S156.txt,[ 9.  0.  0. ...  1.  1. 78.],0.5781665516405726

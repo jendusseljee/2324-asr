@@ -2,3 +2,8 @@ data
 datasets/addresso_backup
 .DS_Store
 .venv
+**/*.pth
+Archive
+__pycache__
+myprosody
+vit
